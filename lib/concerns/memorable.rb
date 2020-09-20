@@ -9,5 +9,6 @@ module Memorable
     end
   end 
   
+  module Instance 
   
 end 
